@@ -1,16 +1,16 @@
-# 🎓 EduTrack-Cpp
+ EduTrack-Cpp
 
-### 🧩 Object-Oriented Student Management System in C++
+ Object-Oriented Student Management System in C++
 
 ---
 
-## 📘 Overview
+ Overview
 **EduTrack-Cpp** is a simple **Student Management System** built in **C++** to demonstrate core **Object-Oriented Programming (OOP)** concepts.  
 The system manages student data, grades, instructors, and graduate students with their research topics through a console-based interface.
 
 ---
 
-## ⚙️ Features
+ Features
 ✅ Manage student information (name, ID, grade)  
 ✅ Validate grades (0–100 only)  
 ✅ Allow instructors to update grades via a friend function  
@@ -20,7 +20,7 @@ The system manages student data, grades, instructors, and graduate students with
 
 ---
 
-## 🧠 OOP Concepts Implemented
+ OOP Concepts Implemented
 | Concept | Description |
 |----------|-------------|
 | **Encapsulation** | Keeps data private with public accessors/mutators |
@@ -29,6 +29,6 @@ The system manages student data, grades, instructors, and graduate students with
 | **Static Members** | Counts total students created |
 | **Constructors/Destructors** | Initialize and clean up objects |
 
----
+
 
 
