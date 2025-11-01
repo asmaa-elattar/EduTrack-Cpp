@@ -11,7 +11,8 @@ The system manages student data, grades, instructors, and graduate students with
 ---
 
  Features
- Manage student information (name, ID, grade)  
+ 
+✅ Manage student information (name, ID, grade)  
 ✅ Validate grades (0–100 only)  
 ✅ Allow instructors to update grades via a friend function  
 ✅ GraduateStudent class inherits from Student and adds a research topic  
